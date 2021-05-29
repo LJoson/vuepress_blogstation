@@ -233,6 +233,8 @@ vi /etc/hosts
 //上面的网址IP也许会发生变化，这样就要对应修改ip
 
 
+GitHub的网址IP可能会变化，可以用下面的网址查
+[https://www.ipaddress.com/](https://www.ipaddress.com/)
 ```
 
 重启网络
@@ -242,10 +244,6 @@ sudo service networking restart
 /etc/init.d/networking restart 
 
 ```
-
-GitHub的网址IP可能会变化，可以用下面的网址查
-[https://www.ipaddress.com/](https://www.ipaddress.com/)
-
 ::: tip 参考文档
 
 https://www.codenong.com/cs106177126/

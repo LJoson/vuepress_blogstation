@@ -4,7 +4,7 @@ date: 2021-02-07 23:00:12
 sidebar: true
 sidebarDepth: 5
 tags: 
-- Python
+- bug
 categories:
 - "笔记类"
 isShowComments: true

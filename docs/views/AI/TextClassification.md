@@ -12,8 +12,26 @@ isShowComments: true
 
 
 [[toc]]
+
+# 引言
+
+
+## 数据处理
 词袋工具：
 https://www.nltk.org/data.html
+
+
+## 词嵌入embedded
+- word2vec
+https://code.google.com/archive/p/word2vec/
+## CNN
+
+
+## LSTM
+https://zhuanlan.zhihu.com/p/32085405
+
+## Atention
+
 ### 日记
 
 
@@ -52,7 +70,7 @@ https://blog.csdn.net/u014168855/article/details/105505991
 
 https://blog.csdn.net/Koala_Tree/article/details/77765436
 
-
+https://www.cnblogs.com/jiangxinyang/p/10208290.html
 :::
 
 ::: tip SVM参考资料

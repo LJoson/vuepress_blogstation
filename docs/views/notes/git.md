@@ -4,7 +4,7 @@ date: 2021-01-28 17:30:12
 sidebar: true
 sidebarDepth: 5
 tags: 
-- LINUX
+- 文档笔记
 categories:
 - "笔记类"
 isShowComments: true
@@ -92,7 +92,7 @@ git pull                                                   //抓取远程提交
 git checkout -b branch-name origin/branch-name                  //在本地创建和远程分支对应的分支
 git branch --set-upstream branch-name origin/branch-name   //建立本地分支和远程分支的关联
 
-6、其他---标签
+6、其他---标签/release
 git tag v1.0                                                                      //给当前分支最新的commit打标签
 git tag -a v0.1 -m 'version 0.1 released' 3628164                 //-a指定标签名，-m指定说明文字
 git tag -s <tagname> -m 'blabla'                                        //可以用PGP签名标签

@@ -121,6 +121,9 @@ AllowUsers sky # 远程登录时的用户名
 
 3.远程sftp服务
 http://filezilla-project.org/download.php?type=client
+- xftp
+
+https://www.netsarang.com/zh/all-downloads/
 
 ::: tip
 

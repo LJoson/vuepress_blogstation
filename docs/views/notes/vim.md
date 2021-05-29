@@ -4,7 +4,7 @@ date: 2021-01-27 21:00:12
 sidebar: true
 sidebarDepth: 5
 tags: 
-- LINUX
+- 文档笔记
 categories:
 - "笔记类"
 isShowComments: true

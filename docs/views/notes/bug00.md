@@ -4,7 +4,7 @@ date: 2020-07-28 15:00:12
 sidebar: true
 sidebarDepth: 5
 tags: 
-- LINUX
+- bug
 categories:
 - "笔记类"
 isShowComments: true

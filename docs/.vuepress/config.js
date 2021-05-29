@@ -49,7 +49,7 @@ module.exports = {
         lastUpdated: true,
         lastUpdated: '最后更新时间', // string | boolean
         // 作者
-        author: 'LiJun',
+        author: 'LJoson',
         // 备案号
         record: 'Copyrights ©2020 ',
         // 项目开始时间

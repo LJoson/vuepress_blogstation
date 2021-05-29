@@ -17,7 +17,7 @@ isShowComments: true
 
 
 ## 安装 DevEco Studio 和 OHOS NDK
-下载安装[DevEco Studio](https://developer.harmonyos.com/cn/develop/deveco-studio#download)，若没有华为开发者账号，需到[HarmonysOS应用开发门户](https://developer.harmonyos.com/cn/home)注册。
+下载安装[DevEco Studio](https://developer.harmonyos.com/cn/develop/deveco-studio#download)，若没有华为开发者账号，需到[HarmonyOS应用开发门户](https://developer.harmonyos.com/cn/home)注册。
 
 打开 DevEco Studio，Configure（或File）-> Settings -> Appearance & Behavior -> System Settings -> HarmonyOS SDK，勾选并下载 Native，完成 OHOS NDK 下载。
 ## 准备 OHOS NDK cmake toolchain 文件

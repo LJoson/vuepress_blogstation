@@ -4,7 +4,7 @@ date: 2020-12-07 13:00:12
 sidebar: true
 sidebarDepth: 5
 tags: 
-- 机器学习
+- bug
 categories:
 - "笔记类"
 isShowComments: true

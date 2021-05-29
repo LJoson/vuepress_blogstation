@@ -24,12 +24,13 @@ module.exports = {
             title:'硬件设计类',
             collapsable: true,
             children:[
-                'ee/cubli.md','ee/debo.md','ee/star.md','ee/midbot.md',
+                'ee/cubli.md','ee/tinyascen.md','ee/star.md','ee/midbot.md','ee/smallB.md','ee/miniBOT.md',
                 'ee/harmonyos/ohos0.md',
                 'ee/tcostiny/tcos0.md',
                 'ee/ARMcortex/nanopi0.md','ee/ARMcortex/armenv.md',
                 'ee/riscv/gdf103.md',
-                'ee/fpga/env'
+                'ee/fpga/env.md',
+                'ee/cxv/start.md',
 
 
             ]
@@ -55,7 +56,7 @@ module.exports = {
             collapsable: true,
             children:[
                 'notes/Googlebug.md','notes/Pythonbug.md','notes/aibug00.md','notes/bug00.md','notes/git.md',
-                'notes/oamnote.md','notes/vim.md','notes/Edge.md'
+                'notes/oamnote.md','notes/vim.md','notes/Edge.md','notes/markdown.md'
             ]
         },
         {

@@ -55,3 +55,7 @@ https://whycan.com/t_3612.html
 3.远程
 sftp服务
 http://filezilla-project.org/download.php?type=client
+
+
+xftp
+https://www.netsarang.com/zh/all-downloads/

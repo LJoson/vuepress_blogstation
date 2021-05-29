@@ -157,6 +157,10 @@ target remote localhost:1234
 
 
 - 最后远程[sftp服务](http://filezilla-project.org/download.php?type=client),其实win10已经挂载在wsl的mnt上，所以sftp服务感觉可有可无
+- xftp:
+https://www.netsarang.com/zh/all-downloads/
+
+
 ## issues
 
 - su: Authentication failure

@@ -4,7 +4,7 @@ date: 2021-01-20 22:00:12
 sidebar: true
 sidebarDepth: 5
 tags: 
-- 杂谈
+- bug
 categories:
 - "笔记类"
 isShowComments: true
